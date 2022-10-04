@@ -2,7 +2,6 @@
 --- 
 ## Contacts
 * **Location:** Tashkent, Uzbekistan 
-* **Phone:** + 998 91 111 11 57
 * **E-mail:** azizkhabibullaev@mail.ru
 * **GitHub:** pokemondeveloper
 * **Discord:** pokemon#4543
