@@ -1,10 +1,9 @@
 # Azizbek Khabibullaev
 --- 
 ## Contacts
-* **Location:** Fergana, Uzbekistan 
+* **Location:** Tashkent, Uzbekistan 
 * **Phone:** + 998 91 111 11 57
 * **E-mail:** azizkhabibullaev@mail.ru
-* **Telegram:** @azizbekkhabibullaev
 * **GitHub:** pokemondeveloper
 * **Discord:** pokemon#4543
 
@@ -40,9 +39,9 @@ console.log(`The value of a after swapping: ${a}`);
 console.log(`The value of b after swapping: ${b}`);
 ```
 ## Education 
-Fergana Polytechnic Institute (Faculty of Management in Production)
+The Rolling Scopes School (Front-end/JavaScript)
 
 ## Language
 English - B2
-Russian - A2
+Russian - B1
 Uzbek - native
