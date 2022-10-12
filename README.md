@@ -1,3 +1,3 @@
 # rsschool-cv
 
-CV. Markdown & Git https://pokemondeveloper.github.io/rsschool-cv/cv
+HTML, CSS & Git Basics [CV](https://pokemondeveloper.github.io/rsschool-cv/)
