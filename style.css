@@ -23,13 +23,18 @@
     padding-top: 70px;
 }
 
-.header-navigation {
+.header-navigation ul {
+    display: flex;
     font-size:larger;
     align-items:flex-end;
     justify-content:left;
     padding-top: 25px;
     width: auto;
     color: black;
+}
+
+.header-navigation ul li {
+    list-style: none;
 }
 
 #header-picture {
